@@ -1,0 +1,7 @@
+#banner {
+    height: 10%;
+    width: 100%;
+    background-color: blue;
+    display: block;
+    justify-content: center
+}
